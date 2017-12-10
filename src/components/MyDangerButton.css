@@ -1,0 +1,6 @@
+.MyDangerButton {
+  /*composes: btnPrimary from 'bootstrap-css-modules/css/buttons.css';*/
+  background-color: dodgerblue;
+  border-color: dodgerblue;
+  color: pink;
+}
